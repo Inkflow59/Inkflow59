@@ -70,10 +70,6 @@
 
 ###
 
-![snake gif](https://github.com/Inkflow59/inkflow59/blob/output/github-contribution-grid-snake.svg)
-
-###
-
 <h3 align="center">Games and projects on <a href="https://gamejolt.com/@Inkflow">GameJolt</a> and on <a href="https://inkflow.itch.io/">itch.io</a></h3>
 
 ###
