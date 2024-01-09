@@ -15,7 +15,7 @@
   <a href="https://www.python.org/" target"_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  /></a>
   <a href="https://vuejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" width="52" alt="vuejs logo"  /></a>
   <a href="https://www.w3.org/html/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  /></a>
-  <a href="https://www.clickteam.com/fr/clickteam-fusion-2-5" target="blank"><img src="https://www.nesabamedia.com/wp-content/uploads/2022/11/Clickteam-Fusion-Logo-1.png" height="40" width="52" alt="typescript logo" /></a>
+  <a href="https://www.typescriptlang.org/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo" /></a>
   <a href="https://www.lua.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" height="40" width="52" alt="lua logo" /></a>
   <a href="https://daringfireball.net/projects/markdown/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" width="52" alt="markdown logo" /></a>
   <a href="https://www.sqlite.org/index.html" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" width="52" alt="sqlite logo" /></a>
