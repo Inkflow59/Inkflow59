@@ -1,7 +1,8 @@
-# Hello, moi c'est Inkflow ! 👋
+# Salut, moi c'est Inkflow ! 👋
 [![Github Trophies](https://github-profile-trophy.vercel.app/?username=Inkflow59)](https://github.com/ryo-ma/github-profile-trophy)<br>
 <br>
-Bonjour, bienvenue sur mon profil GitHub ! Je suis un **développeur *web*, *mobile* et de *jeux vidéos indépendant***, et j'ai fondé la HoS Team en juin 2023, pour que tous puissent réaliser les projets qu'ils souhaitent. Vous pourrez retrouver mes projets intéressants au sein de cette page GitHub ou sur la page GitHub de l'organisation
+- 💻 Développeur **web**, **mobile** et de **jeu vidéo indépendant**
+- 👑 Fondateur et président de la **HoS Team** *(depuis juin 2023)*
 
 # Mes technologies préférées 🖥️
 
