@@ -5,6 +5,8 @@ Bonjour, bienvenue sur mon profil GitHub ! Je suis un **développeur *web*, *mob
 
 # Mes technologies préférées 🖥️
 <div align="center">
+<a href="https://www.clickteam.com/fr/clickteam-fusion-2-5"><img src="https://raw.githubusercontent.com/Inkflow59/Inkflow59/wip-readme/technoIcons/mfaLogo.svg?sanitize=true" width="80" height="80" alt="Clickteam Fusion 2.5 (MFA)"></a>
+<a href="https://wikipedia.org/wiki/JavaScript"><img src="https://raw.githubusercontent.com/Inkflow59/Inkflow59/wip-readme/technoIcons/jsLogo.svg?sanitize=true" width="80" height="80" alt="JavaScript"></a>
 </div>
 
 # Ce que j'écoute en ce moment 🎶
