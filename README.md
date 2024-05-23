@@ -1,31 +1,6 @@
-![](https://komarev.com/ghpvc/?username=Inkflow59&color=blue)
+# Hello, moi c'est Inkflow ! 👋
 
-###
-
-<h1 align="center">Inkflow</h1>
-
-###
-
-<h3 align="center">A web, game, software and apps devloper coded mainly on Clickteam Fusion since February 2016</h3>
-
-###
-
-<div align="center">
-  <a href="https://www.javascript.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  /></a>
-  <a href="https://www.python.org/" target"_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  /></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  /></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="php logo"  /></a>
-  <a href="https://daringfireball.net/projects/markdown/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" width="52" alt="markdown logo" /></a>
-  <a href="https://www.sqlite.org/index.html" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" width="52" alt="sqlite logo" /></a>
-  <a href="https://developer.android.com/studio" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" width="52" alt="androidstudio logo"  /></a>
-  <a href="https://jupyter.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40" width="52" alt="jupyter logo" /></a>
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo" /></a>
-  <a href="https://www.android.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" width="52" alt="android logo"  /></a>
-  <a href="https://www.microsoft.com/windows" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" width="52" alt="windows8 logo"  /></a>
-</div>
-
-###
-
+# Ce que j'écoute en ce moment 🎶
 <div align="center">
   <a href="https://open.spotify.com/user/11127395499">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=11127395499&unique=true"  />
