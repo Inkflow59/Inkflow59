@@ -1,4 +1,4 @@
-name: CI
+name: InkSnake
 
 # Controls when the workflow will run
 on:
