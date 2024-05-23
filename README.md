@@ -43,13 +43,3 @@
 ###
 
 <h3 align="center">Games and projects on <a href="https://gamejolt.com/@Inkflow">GameJolt</a> and on <a href="https://inkflow.itch.io/">itch.io</a></h3>
-
-###
-
-<img align="right" height="200" src="https://i.imgur.com/0zxb079.png"  />
-
-###
-
-<img align="left" height="200" src="https://i.imgur.com/NuqL9VG.png"  />
-
-###
