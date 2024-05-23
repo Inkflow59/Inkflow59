@@ -12,12 +12,16 @@ Bonjour, bienvenue sur mon profil GitHub ! Je suis un **développeur *web*, *mob
 
 # Mes statistiques Github 📊
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Inkflow59&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true" alt="Inkflow59's GitHub Stats" /><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inkflow59&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact" alt="Inkflow59's GitHub Stats" /><br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Inkflow59&theme=chartreuse-dark&hide_border=true" alt="Inkflow59's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inkflow59&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact" alt="Inkflow59's Top Languages"/><br>
+<img src="https://github-readme-stats.vercel.app/api?username=Inkflow59&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true" alt="Inkflow59's GitHub Stats"/><br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Inkflow59&theme=chartreuse-dark&hide_border=true" alt="Inkflow59's Streak"/>
 </div>
 
 # Mes projets principaux 👨‍💻
 <div align="center">
 <h3><strong>CreaSQL</strong> - <em>(Work in progress)</em></h3>
 <h3><strong>PortInkFolio</strong> - <em><a href="https://github.com/Inkflow59/PortInkFolio">(En cours depuis le 19 septembre 2023)</a></em></h3>
+<h3><strong>HoS Website</strong> - <em><a href="https://hos-team.fr">(En cours depuis le 9 janvier 2024)</a></em></h3>
+<h3><strong>Heroes of Songs : J.V</strong> - <em><a href="https://inkflow.itch.io/hos-jv">(Version actuelle : v0.3.0)</a></em></h3>
+<h3><strong>Mysterious Bot: Reinitialized</strong> - <em>(Work in progress)</em></h3>
+</div>
