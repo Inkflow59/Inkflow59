@@ -40,7 +40,7 @@
   <img src="technoIcons/mysqlLogo.svg" width="50" height="50"><p>MySQL <em>(SQL DBMS)</em></p><br>
   <img src="technoIcons/sqliteLogo.svg" width="50" height="50"><p>SQLite <em>(SQL Engine)</em></p><br>
   <img src="technoIcons/javaLogo.svg" width="50" height="50"><p>Java</p><br>
-  <img src="technoIcons/pyLogo.svg" width="50" height="50"><p>Python</p><br>
+  <img src="technoIcons/pyLogo.svg" width="50" height="50"><p>Python</p>
 </div>
 
 # Ce que j'écoute en ce moment 🎶
