@@ -134,3 +134,7 @@ isOrganizationPresident(hosTeam);
 currentStatus();
 currentProjects();
 ```
+
+<div align="center">
+<p><em>Copyright (c) 2024 - Made with love</em></p>
+<p><em><strong>Inkflow</strong></em></p>
