@@ -49,6 +49,7 @@ function currentStatus() :string[] {
 function currentProjects() :any[] {
     var projects :any[] = [
         "CreaSQL",
+        "Mailforce",
         "PortInkFolio",
         "HoS Website",
         "Heroes of Songs : J.V",
