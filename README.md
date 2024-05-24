@@ -10,16 +10,16 @@
 </div>
 
 <div align="center">
-<a href="https://www.clickteam.com/fr/clickteam-fusion-2-5"><img src="https://raw.githubusercontent.com/Inkflow59/Inkflow59/wip-readme/technoIcons/mfaLogo.svg?sanitize=true" width="70" height="70" alt="Clickteam Fusion 2.5 (MFA)"></a>
-<a href="https://wikipedia.org/wiki/Hypertext_Markup_Language"><img src="https://raw.githubusercontent.com/Inkflow59/Inkflow59/wip-readme/technoIcons/htmlLogo.svg?sanitize=true" width="70" height="70" alt="HTML"></a>
-<a href="https://wikipedia.org/wiki/CSS"><img src="https://raw.githubusercontent.com/Inkflow59/Inkflow59/wip-readme/technoIcons/cssLogo.svg?sanitize=true" width="70" height="70" alt="CSS"></a>
-<a href="https://wikipedia.org/wiki/JavaScript"><img src="https://raw.githubusercontent.com/Inkflow59/Inkflow59/wip-readme/technoIcons/jsLogo.svg?sanitize=true" width="70" height="70" alt="JavaScript"></a>
-<a href="https://wikipedia.org/wiki/TypeScript"><img src="https://raw.githubusercontent.com/Inkflow59/Inkflow59/wip-readme/technoIcons/tsLogo.svg?sanitize=true" width="70" height="70" alt="TypeScript"></a>
-<a href="https://wikipedia.org/wiki/PHP"><img src="https://raw.githubusercontent.com/Inkflow59/Inkflow59/wip-readme/technoIcons/phpLogo.svg?sanitize=true" width="70" height="70" alt="PHP"></a>
-<a href="https://wikipedia.org/wiki/MySQL"><img src="https://raw.githubusercontent.com/Inkflow59/Inkflow59/wip-readme/technoIcons/mysqlLogo.svg?sanitize=true" width="70" height="70" alt="MySQL"></a>
-<a href="https://wikipedia.org/wiki/SQLite"><img src="https://raw.githubusercontent.com/Inkflow59/Inkflow59/wip-readme/technoIcons/sqliteLogo.svg?sanitize=true" width="70" height="70" alt="SQLite"></a>
-<a href="https://wikipedia.org/wiki/Java_(programming_language)"><img src="https://raw.githubusercontent.com/Inkflow59/Inkflow59/wip-readme/technoIcons/javaLogo.svg?sanitize=true" width="70" height="70" alt="Java"></a>
-<a href="https://wikipedia.org/wiki/Python_(programming_language)"><img src="https://raw.githubusercontent.com/Inkflow59/Inkflow59/wip-readme/technoIcons/pyLogo.svg?sanitize=true" width="70" height="70" alt="Python"></a>
+<a href="https://www.clickteam.com/fr/clickteam-fusion-2-5"><img src="https://raw.githubusercontent.com/Inkflow59/Inkflow59/main/technoIcons/mfaLogo.svg?sanitize=true" width="70" height="70" alt="Clickteam Fusion 2.5 (MFA)"></a>
+<a href="https://wikipedia.org/wiki/Hypertext_Markup_Language"><img src="https://raw.githubusercontent.com/Inkflow59/Inkflow59/main/technoIcons/htmlLogo.svg?sanitize=true" width="70" height="70" alt="HTML"></a>
+<a href="https://wikipedia.org/wiki/CSS"><img src="https://raw.githubusercontent.com/Inkflow59/Inkflow59/main/technoIcons/cssLogo.svg?sanitize=true" width="70" height="70" alt="CSS"></a>
+<a href="https://wikipedia.org/wiki/JavaScript"><img src="https://raw.githubusercontent.com/Inkflow59/Inkflow59/main/technoIcons/jsLogo.svg?sanitize=true" width="70" height="70" alt="JavaScript"></a>
+<a href="https://wikipedia.org/wiki/TypeScript"><img src="https://raw.githubusercontent.com/Inkflow59/Inkflow59/main/technoIcons/tsLogo.svg?sanitize=true" width="70" height="70" alt="TypeScript"></a>
+<a href="https://wikipedia.org/wiki/PHP"><img src="https://raw.githubusercontent.com/Inkflow59/Inkflow59/main/technoIcons/phpLogo.svg?sanitize=true" width="70" height="70" alt="PHP"></a>
+<a href="https://wikipedia.org/wiki/MySQL"><img src="https://raw.githubusercontent.com/Inkflow59/Inkflow59/main/technoIcons/mysqlLogo.svg?sanitize=true" width="70" height="70" alt="MySQL"></a>
+<a href="https://wikipedia.org/wiki/SQLite"><img src="https://raw.githubusercontent.com/Inkflow59/Inkflow59/main/technoIcons/sqliteLogo.svg?sanitize=true" width="70" height="70" alt="SQLite"></a>
+<a href="https://wikipedia.org/wiki/Java_(programming_language)"><img src="https://raw.githubusercontent.com/Inkflow59/Inkflow59/main/technoIcons/javaLogo.svg?sanitize=true" width="70" height="70" alt="Java"></a>
+<a href="https://wikipedia.org/wiki/Python_(programming_language)"><img src="https://raw.githubusercontent.com/Inkflow59/Inkflow59/main/technoIcons/pyLogo.svg?sanitize=true" width="70" height="70" alt="Python"></a>
 
 <p><em>Cliquez sur les logos pour plus d'informations !</em></p>
 </div>
@@ -30,16 +30,16 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Inkflow59/Inkflow59/wip-readme/technoIcons/mfaLogo.svg?sanitize=true" width="50" height="50"><p>Clickteam Fusion (v2.5)</p><br>
-  <img src="https://raw.githubusercontent.com/Inkflow59/Inkflow59/wip-readme/technoIcons/htmlLogo.svg?sanitize=true" width="50" height="50"><p>HyperText Markup Language (v5)</p><br>
-  <img src="https://raw.githubusercontent.com/Inkflow59/Inkflow59/wip-readme/technoIcons/cssLogo.svg?sanitize=true" width="50" height="50"><p>Cascade Style Sheets (v3)</p><br>
-  <img src="https://raw.githubusercontent.com/Inkflow59/Inkflow59/wip-readme/technoIcons/jsLogo.svg?sanitize=true" width="50" height="50"><p>JavaScript</p><br>
-  <img src="https://raw.githubusercontent.com/Inkflow59/Inkflow59/wip-readme/technoIcons/tsLogo.svg?sanitize=true" width="50" height="50"><p>TypeScript <em>(JavaScript typé)</em></p><br>
-  <img src="https://raw.githubusercontent.com/Inkflow59/Inkflow59/wip-readme/technoIcons/phpLogo.svg?sanitize=true" width="50" height="50"><p>PHP Hypertext Preprocessor</p><br>
-  <img src="https://raw.githubusercontent.com/Inkflow59/Inkflow59/wip-readme/technoIcons/mysqlLogo.svg?sanitize=true" width="50" height="50"><p>MySQL <em>(SQL DBMS)</em></p><br>
-  <img src="https://raw.githubusercontent.com/Inkflow59/Inkflow59/wip-readme/technoIcons/sqliteLogo.svg?sanitize=true" width="50" height="50"><p>SQLite <em>(SQL Engine)</em></p><br>
-  <img src="https://raw.githubusercontent.com/Inkflow59/Inkflow59/wip-readme/technoIcons/javaLogo.svg?sanitize=true" width="50" height="50"><p>Java</p><br>
-  <img src="https://raw.githubusercontent.com/Inkflow59/Inkflow59/wip-readme/technoIcons/pyLogo.svg?sanitize=true" width="50" height="50"><p>Python</p><br>
+  <img src="https://raw.githubusercontent.com/Inkflow59/Inkflow59/main/technoIcons/mfaLogo.svg?sanitize=true" width="50" height="50"><p>Clickteam Fusion (v2.5)</p><br>
+  <img src="https://raw.githubusercontent.com/Inkflow59/Inkflow59/main/technoIcons/htmlLogo.svg?sanitize=true" width="50" height="50"><p>HyperText Markup Language (v5)</p><br>
+  <img src="https://raw.githubusercontent.com/Inkflow59/Inkflow59/main/technoIcons/cssLogo.svg?sanitize=true" width="50" height="50"><p>Cascade Style Sheets (v3)</p><br>
+  <img src="https://raw.githubusercontent.com/Inkflow59/Inkflow59/main/technoIcons/jsLogo.svg?sanitize=true" width="50" height="50"><p>JavaScript</p><br>
+  <img src="https://raw.githubusercontent.com/Inkflow59/Inkflow59/main/technoIcons/tsLogo.svg?sanitize=true" width="50" height="50"><p>TypeScript <em>(JavaScript typé)</em></p><br>
+  <img src="https://raw.githubusercontent.com/Inkflow59/Inkflow59/main/technoIcons/phpLogo.svg?sanitize=true" width="50" height="50"><p>PHP Hypertext Preprocessor</p><br>
+  <img src="https://raw.githubusercontent.com/Inkflow59/Inkflow59/main/technoIcons/mysqlLogo.svg?sanitize=true" width="50" height="50"><p>MySQL <em>(SQL DBMS)</em></p><br>
+  <img src="https://raw.githubusercontent.com/Inkflow59/Inkflow59/main/technoIcons/sqliteLogo.svg?sanitize=true" width="50" height="50"><p>SQLite <em>(SQL Engine)</em></p><br>
+  <img src="https://raw.githubusercontent.com/Inkflow59/Inkflow59/main/technoIcons/javaLogo.svg?sanitize=true" width="50" height="50"><p>Java</p><br>
+  <img src="https://raw.githubusercontent.com/Inkflow59/Inkflow59/main/technoIcons/pyLogo.svg?sanitize=true" width="50" height="50"><p>Python</p><br>
 </div>
 
 # Ce que j'écoute en ce moment 🎶
@@ -65,8 +65,8 @@
 
 # Pour me contacter 📧
 <div align="center">
-<a href="https://discordapp.com/users/286179374204583938"><img src="https://raw.githubusercontent.com/Inkflow59/Inkflow59/wip-readme/contactIcons/discord.svg?sanitize=true" width="70" height="70" alt="Mon profil Discord"></a>
-<a href="mailto:tomcucherosset@hotmail.fr"><img src="https://raw.githubusercontent.com/Inkflow59/Inkflow59/wip-readme/contactIcons/mail.svg?sanitize=true" width="70" height="70" alt="Mon adresse e-mail"></a>
+<a href="https://discordapp.com/users/286179374204583938"><img src="https://raw.githubusercontent.com/Inkflow59/Inkflow59/main/contactIcons/discord.svg?sanitize=true" width="70" height="70" alt="Mon profil Discord"></a>
+<a href="mailto:tomcucherosset@hotmail.fr"><img src="https://raw.githubusercontent.com/Inkflow59/Inkflow59/main/contactIcons/mail.svg?sanitize=true" width="70" height="70" alt="Mon adresse e-mail"></a>
 </div>
 
 # Let's code !
