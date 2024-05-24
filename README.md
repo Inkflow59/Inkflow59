@@ -72,6 +72,7 @@
 
 # Let's code !
 ```ts
+// Language : TypeScript
 const name :string = "Tom";
 const pseudo :string = "Inkflow";
 var age :number = 20;
