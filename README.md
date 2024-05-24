@@ -58,6 +58,7 @@
 # Mes projets principaux 👨‍💻
 <div align="center">
 <h3><strong>CreaSQL</strong> - <em>(Work in progress)</em></h3>
+<h3><strong>Mailforce</strong> - <em>(Work in progress)</em></h3>
 <h3><strong><a href="https://github.com/Inkflow59/PortInkFolio">PortInkFolio</a></strong> - <em>(En cours depuis le 19 septembre 2023)</em></h3>
 <h3><strong><a href="https://hos-team.fr">HoS Website</a></strong> - <em>(En cours depuis le 9 janvier 2024)</em></h3>
 <h3><strong><a href="https://inkflow.itch.io/hos-jv">Heroes of Songs : J.V</a></strong> - <em>(Version actuelle : v0.3.0)</em></h3>
@@ -123,6 +124,7 @@ function currentStatus() :string[] {
 function currentProjects() :any[] {
     var projects :any[] = [
         "CreaSQL",
+        "Mailforce",
         "PortInkFolio",
         "HoS Website",
         "Heroes of Songs : J.V",
