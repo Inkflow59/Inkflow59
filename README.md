@@ -57,7 +57,7 @@
 # Mes projets principaux 👨‍💻
 <div align="center">
 <h3><strong>CreaSQL</strong> - <em>(Work in progress)</em></h3>
-<h3><strong><a href="https://github.com/Inkflow59/PortInkFolio">PortInkFolio</a></strong> - <em>(En cours depuis le 19 septembre 2023)></em></h3>
+<h3><strong><a href="https://github.com/Inkflow59/PortInkFolio">PortInkFolio</a></strong> - <em>(En cours depuis le 19 septembre 2023)</em></h3>
 <h3><strong><a href="https://hos-team.fr">HoS Website</a></strong> - <em>(En cours depuis le 9 janvier 2024)</em></h3>
 <h3><strong><a href="https://inkflow.itch.io/hos-jv">Heroes of Songs : J.V</a></strong> - <em>(Version actuelle : v0.3.0)</em></h3>
 <h3><strong>Mysterious Bot: Reinitialized</strong> - <em>(Work in progress)</em></h3>
@@ -76,7 +76,7 @@ const pseudo :string = "Inkflow";
 var age :number = 20;
 
 function ITLanguagesMastered() :string[] {
-    var masteredTechnos: string[] = [
+    var masteredTechnos :string[] = [
         "Clickteam Fusion",
         "HTML5",
         "CSS3",
