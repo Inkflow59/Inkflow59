@@ -76,7 +76,7 @@ const name :string = "Tom";
 const pseudo :string = "Inkflow";
 var age :number = 20;
 
-function ITLanguagesMastered() :string[] {
+function languagesMastered() :string[] {
     var masteredTechnos :string[] = [
         "Clickteam Fusion",
         "HTML5",
@@ -130,7 +130,7 @@ function currentProjects() :any[] {
     return projects;
 }
 
-ITLanguagesMastered();
+languagesMastered();
 isOrganizationPresident(hosTeam);
 currentStatus();
 currentProjects();
