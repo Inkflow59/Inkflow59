@@ -5,7 +5,6 @@
 - 🎂 Né le 29 novembre 2003 ***(20 ans)***
 
 # Mes technologies préférées 🖥️
-
 <div align="center">
   <h2>Logos des technologies utilisées</h2>
 </div>
@@ -65,7 +64,73 @@
 </div>
 
 # Pour me contacter 📧
-
 <div align="center">
-  <h1>Let's code !</h1>
+<a href="https://discordapp.com/users/286179374204583938"><img src="https://raw.githubusercontent.com/Inkflow59/Inkflow59/wip-readme/contactIcons/discord.svg?sanitize=true" width="70" height="70" alt="Mon profil Discord"></a>
+<a href="mailto:tomcucherosset@hotmail.fr"><img src="https://raw.githubusercontent.com/Inkflow59/Inkflow59/wip-readme/contactIcons/mail.svg?sanitize=true" width="70" height="70" alt="Mon adresse e-mail"></a>
 </div>
+
+# Let's code !
+```ts
+const name :string = "Tom";
+const pseudo :string = "Inkflow";
+var age :number = 20;
+
+function ITLanguagesMastered() :string[] {
+    var masteredTechnos: string[] = [
+        "Clickteam Fusion",
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "TypeScript",
+        "PHP",
+        "MySQL",
+        "SQLite",
+        "Java",
+        "Python"
+    ];
+    return masteredTechnos;
+}
+
+var hosTeam :boolean = true
+function isOrganizationPresident(hosTeam :boolean) :boolean {
+    if (hosTeam==true) {
+        return true;
+    }   else {
+        return false;
+    }
+}
+
+function currentStatus() :string[] {
+    var formations :any[] = [
+        ["2023 - 2025",
+        "BTS SIO (SLAM)",
+        "Gaston Berger"]
+    ];
+
+    var workplace :any[] = [
+        "Student"
+    ];
+
+    if(workplace[0]=="Student") {
+        return formations;
+    }   else {
+        return workplace;
+    }
+}
+
+function currentProjects() :any[] {
+    var projects :any[] = [
+        "CreaSQL",
+        "PortInkFolio",
+        "HoS Website",
+        "Heroes of Songs : J.V",
+        "Mysterious Bot: Reinitialized"
+    ];
+    return projects;
+}
+
+ITLanguagesMastered();
+isOrganizationPresident(hosTeam);
+currentStatus();
+currentProjects();
+```
