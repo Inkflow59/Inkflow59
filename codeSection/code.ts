@@ -51,6 +51,7 @@ function currentProjects() :any[] {
         "CreaSQL",
         "Mailforce",
         "PortInkFolio",
+        "RolePlay Game: Character Creator",
         "HoS Website",
         "Heroes of Songs : J.V",
         "Mysterious Bot: Reinitialized"
