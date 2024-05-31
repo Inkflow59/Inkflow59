@@ -1,5 +1,5 @@
 # Salut, moi c'est Inkflow ! 👋
-[![Github Trophies](https://github-profile-trophy.vercel.app/?username=Inkflow59)](https://github.com/ryo-ma/github-profile-trophy)<br>
+[![Github Trophies](https://github-profile-trophy.vercel.app/?username=Inkflow59&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)<br>
 - 💻 Développeur **web**, **mobile** et de **jeu vidéo indépendant**
 - 👑 Fondateur et président de la **HoS Team** *(depuis juin 2023)*
 - 🎂 Né en 2003 ***(20 ans)***
