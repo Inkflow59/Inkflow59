@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-<a href="https://www.clickteam.com/fr/clickteam-fusion-2-5"><img src="technoIcons/mfaLogo.svg" width="70" height="70" alt="Clickteam Fusion 2.5 (MFA)"></a>
+<a href="https://www.clickteam.com/clickteam-fusion-2-5"><img src="technoIcons/mfaLogo.svg" width="70" height="70" alt="Clickteam Fusion 2.5 (MFA)"></a>
 <a href="https://wikipedia.org/wiki/Hypertext_Markup_Language"><img src="technoIcons/htmlLogo.svg" width="70" height="70" alt="HTML"></a>
 <a href="https://wikipedia.org/wiki/CSS"><img src="technoIcons/cssLogo.svg" width="70" height="70" alt="CSS"></a>
 <a href="https://wikipedia.org/wiki/JavaScript"><img src="technoIcons/jsLogo.svg" width="70" height="70" alt="JavaScript"></a>
