@@ -54,7 +54,8 @@ function currentProjects() :any[] {
         "RolePlay Game: Character Creator",
         "HoS Website",
         "Heroes of Songs : J.V",
-        "Mysterious Bot: Reinitialized"
+        "Mysterious Bot: Reinitialized",
+        "Relics of Sokal: The Divine Call"
     ];
     return projects;
 }
