@@ -62,8 +62,14 @@
 <h3><strong><a href="https://github.com/Inkflow59/PortInkFolio-Reagent">PortInkFolio</a></strong> - <em>(En cours depuis le 19 septembre 2023)</em></h3>
 <h3><strong><a href="https://github.com/Inkflow59/RPGCC-Rebirth">RolePlay Game: Character Creator (Android, iOS, Windows)</a></strong> - <em>(En cours depuis le 3 février 2022)</em></h3>
 <h3><strong><a href="https://hos-team.fr">HoS Website</a></strong> - <em>(En cours depuis le 9 janvier 2024)</em></h3>
+</div>
+
+## Mes jeux vidéos 🎮
+
+<div align="center">
 <h3><strong><a href="https://inkflow.itch.io/hos-jv">Heroes of Songs : J.V</a></strong> - <em>(Version actuelle : v0.3.0)</em></h3>
-<h3><strong>Mysterious Bot: Reinitialized</strong> - <em>(Work in progress)</em></h3>
+<h3><strong>Mysterious Bot: Reinitialized</strong> - <em>(Work in progress, but <strong>paused</strong>)</em></h3>
+<h3><strong>Relics of Sokal: The Divine Call</strong> - <em>(Work in progress)</em></h3>
 </div>
 
 # Pour me contacter 📧
@@ -130,7 +136,8 @@ function currentProjects() :any[] {
         "RolePlay Game: Character Creator",
         "HoS Website",
         "Heroes of Songs : J.V",
-        "Mysterious Bot: Reinitialized"
+        "Mysterious Bot: Reinitialized",
+        "Relics of Sokal: The Divine Call"
     ];
     return projects;
 }
