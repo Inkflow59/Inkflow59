@@ -53,7 +53,8 @@ function currentProjects() :any[] {
         "HoS Website",
         "Heroes of Songs : J.V",
         "Mysterious Bot: Reinitialized",
-        "Relics of Sokal: The Divine Call"
+        "Relics of Sokal: The Divine Call",
+        "SQLGenix"
     ];
     return projects;
 }
