@@ -60,8 +60,8 @@
 <h3><strong><a href="https://github.com/Inkflow59/PortInkFolio-Reagent">PortInkFolio</a></strong> - <em>(En cours depuis le 19 septembre 2023)</em></h3>
 <h3><strong><a href="https://github.com/Inkflow59/RPGCC-Rebirth">RolePlay Game: Character Creator (Android, iOS, Windows)</a></strong> - <em>(En cours depuis le 3 février 2022)</em></h3>
 <h3><strong><a href="https://hos-team.fr">HoS Website</a></strong> - <em>(En cours depuis le 9 janvier 2024)</em></h3>
-</div>
 <h3><strong><a href="https://github.com/Inkflow59/SQLGenix">SQLGenix</a></strong> - <em>(Librairie PHP utilisable dès maintenant)</em></h3>
+</div>
 
 ## Mes jeux vidéos 🎮
 
