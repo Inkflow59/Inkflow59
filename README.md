@@ -3,7 +3,8 @@
 - 💻 Développeur **web**, **mobile** et de **jeu vidéo indépendant**
 - 👑 Fondateur et président de la **HoS Team** *(depuis juin 2023)*
 - 🎂 Né en 2003 ***(21 ans)***
-- 🎓 *En cours de formation : **BTS SIO, spécialisation Solutions Logicielles et Applications Métiers***
+- 📜 **Bac+2** en **développement web et logiciel**
+- 🎓 *En cours de formation : **Bachelor 3 Développement***
 
 # Mes technologies préférées 🖥️
 <div align="center">
