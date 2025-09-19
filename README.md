@@ -36,7 +36,7 @@
   <img src="technoIcons/htmlLogo.svg" width="50" height="50"><p>HyperText Markup Language (v5)</p><br>
   <img src="technoIcons/cssLogo.svg" width="50" height="50"><p>Cascade Style Sheets (v3)</p><br>
   <img src="technoIcons/jsLogo.svg" width="50" height="50"><p>JavaScript</p><br>
-  <img src="technoIcons/tsLogo.svg" width="50" height="50"><p>TypeScript <em>(JavaScript typé)</em></p><br>
+  <img src="technoIcons/tsLogo.svg" width="50" height="50"><p>TypeScript <em>(Typed JavaScript)</em></p><br>
   <img src="technoIcons/phpLogo.svg" width="50" height="50"><p>PHP Hypertext Preprocessor</p><br>
   <img src="technoIcons/mysqlLogo.svg" width="50" height="50"><p>MySQL <em>(SQL DBMS)</em></p><br>
   <img src="technoIcons/sqliteLogo.svg" width="50" height="50"><p>SQLite <em>(SQL Engine)</em></p><br>
