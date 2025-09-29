@@ -1,6 +1,6 @@
 # Hi, I'm Inkflow! 👋
 [![Github Trophies](https://github-profile-trophy.vercel.app/?username=Inkflow59&theme=matrix&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)<br>
-- 💻 **Web**, **mobile**, **softaware** and **indie game** developer
+- 💻 **Web**, **mobile**, **software** and **indie game** developer
 - 👑 Founder and president of **HoS Team** *(since June 2023)*
 - 🎂 Born in 2003 ***(21 years old)***
 - 📜 **Associate's degree in Computer Science** in **web and software development**
