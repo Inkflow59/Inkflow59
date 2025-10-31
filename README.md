@@ -4,7 +4,7 @@
 - 👑 Founder and president of **HoS Team** *(since June 2023)*
 - 🎂 Born in 2003 ***(21 years old)***
 - 📜 **Associate's degree in Computer Science** in **web and software development**
-- 🎓 *Currently studying: **Bachelor's Degree in Development***
+- 🎓 *Currently studying: **Bachelor’s degree in Software and Web Development (3-years)***
 
 # My favorite technologies 🖥️
 <div align="center">
