@@ -7,89 +7,21 @@
 - 🎓 *Currently studying: **Bachelor’s degree in Software and Web Development (3-years)***
 
 # My favorite technologies 🖥️
-<div align="center">
-  <h2>Technology logos used</h2>
-</div>
 
 <div align="center">
-<a href="https://www.clickteam.com/clickteam-fusion-2-5"><img src="technoIcons/mfa.svg" width="70" height="70" alt="Clickteam Fusion 2.5 (MFA)"></a>
-<a href="https://wikipedia.org/wiki/C_(programming_language)"><img src="technoIcons/C.svg" width="70" height="70" alt="C"></a>
-<a href="https://wikipedia.org/wiki/C%2B%2B"><img src="technoIcons/CPlusPlus.svg" width="70" height="70" alt="C++"></a>
-<a href="https://wikipedia.org/wiki/C_Sharp_(programming_language)"><img src="technoIcons/CSharp.svg" width="70" height="70" alt="C#"></a>
-<a href="https://wikipedia.org/wiki/Hypertext_Markup_Language"><img src="technoIcons/html.svg" width="70" height="70" alt="HTML"></a>
-<a href="https://wikipedia.org/wiki/CSS"><img src="technoIcons/css.svg" width="70" height="70" alt="CSS"></a>
-<a href="https://wikipedia.org/wiki/JavaScript"><img src="technoIcons/js.svg" width="70" height="70" alt="JavaScript"></a>
-<a href="https://wikipedia.org/wiki/TypeScript"><img src="technoIcons/ts.svg" width="70" height="70" alt="TypeScript"></a>
-<a href="https://wikipedia.org/wiki/PHP"><img src="technoIcons/php.svg" width="70" height="70" alt="PHP"></a>
-<a href="https://wikipedia.org/wiki/MySQL"><img src="technoIcons/mysql.svg" width="70" height="70" alt="MySQL"></a>
-<a href="https://wikipedia.org/wiki/SQLite"><img src="technoIcons/sqlite.svg" width="70" height="70" alt="SQLite"></a>
-<a href="https://wikipedia.org/wiki/Java_(programming_language)"><img src="technoIcons/java.svg" width="70" height="70" alt="Java"></a>
-<a href="https://wikipedia.org/wiki/Python_(programming_language)"><img src="technoIcons/py.svg" width="70" height="70" alt="Python"></a>
-<a href="https://wikipedia.org/wiki/Ruby_(programming_language)"><img src="technoIcons/ruby.svg" width="70" height="70" alt="Ruby"></a>
-<a href="https://wikipedia.org/wiki/Lua_(programming_language)"><img src="technoIcons/lua.svg" width="70" height="70" alt="Lua"></a>
-<a href="https://wikipedia.org/wiki/Dart_(programming_language)"><img src="technoIcons/dart.svg" width="70" height="70" alt="Dart"></a>
-<a href="https://wikipedia.org/wiki/Kotlin_(programming_language)"><img src="technoIcons/kotlin.svg" width="70" height="70" alt="Kotlin"></a>
-<a href="https://wikipedia.org/wiki/Node.js"><img src="technoIcons/node.svg" width="70" height="70" alt="Node.js"></a>
-<a href="https://wikipedia.org/wiki/React_(JavaScript_library)"><img src="technoIcons/react.svg" width="70" height="70" alt="React"></a>
-<a href="https://wikipedia.org/wiki/Next.js"><img src="technoIcons/next.svg" width="70" height="70" alt="Next.js"></a>
-<a href="https://wikipedia.org/wiki/Symfony"><img src="technoIcons/symfony.svg" width="70" height="70" alt="Symfony"></a>
-<a href="https://wikipedia.org/wiki/Flutter_(software)"><img src="technoIcons/flutter.svg" width="70" height="70" alt="Flutter"></a>
-<a href="https://wikipedia.org/wiki/Electron_(software_framework)"><img src="technoIcons/electron.svg" width="70" height="70" alt="Electron"></a>
-<a href="https://wikipedia.org/wiki/PostgreSQL"><img src="technoIcons/postgressql.svg" width="70" height="70" alt="PostgreSQL"></a>
-<a href="https://wikipedia.org/wiki/Bootstrap_(front-end_framework)"><img src="technoIcons/bootstrap.svg" width="70" height="70" alt="Bootstrap"></a>
-<a href="https://wikipedia.org/wiki/Django_(web_framework)"><img src="technoIcons/django.svg" width="70" height="70" alt="Django"></a>
-<a href="https://www.django-rest-framework.org/"><img src="technoIcons/djangoRest.svg" width="70" height="70" alt="Django REST Framework"></a>
-<a href="https://wikipedia.org/wiki/Docker_(software)"><img src="technoIcons/docker.svg" width="70" height="70" alt="Docker"></a>
-<a href="https://wikipedia.org/wiki/Godot_(game_engine)"><img src="technoIcons/godot.svg" width="70" height="70" alt="Godot"></a>
-<a href="https://wikipedia.org/wiki/GraphQL"><img src="technoIcons/graphql.svg" width="70" height="70" alt="GraphQL"></a>
-<a href="https://wikipedia.org/wiki/JSON"><img src="technoIcons/json.svg" width="70" height="70" alt="JSON"></a>
-<a href="https://wikipedia.org/wiki/Laravel"><img src="technoIcons/laravel.svg" width="70" height="70" alt="Laravel"></a>
-<a href="https://nwjs.io/"><img src="technoIcons/nwjs.svg" width="70" height="70" alt="NW.js"></a>
-<a href="https://wikipedia.org/wiki/Tailwind_CSS"><img src="technoIcons/tailwind.svg" width="70" height="70" alt="Tailwind CSS"></a>
+
+| | | | | |
+|:---:|:---:|:---:|:---:|:---:|
+| <a href="https://www.clickteam.com/clickteam-fusion-2-5"><img src="technoIcons/mfa.svg" width="50" height="50" alt="Clickteam Fusion 2.5"><br>**Clickteam Fusion**</a> | <a href="https://wikipedia.org/wiki/C_(programming_language)"><img src="technoIcons/C.svg" width="50" height="50" alt="C"><br>**C**</a> | <a href="https://wikipedia.org/wiki/C%2B%2B"><img src="technoIcons/CPlusPlus.svg" width="50" height="50" alt="C++"><br>**C++**</a> | <a href="https://wikipedia.org/wiki/C_Sharp_(programming_language)"><img src="technoIcons/CSharp.svg" width="50" height="50" alt="C#"><br>**C#**</a> | <a href="https://wikipedia.org/wiki/Hypertext_Markup_Language"><img src="technoIcons/html.svg" width="50" height="50" alt="HTML"><br>**HTML5**</a> |
+| <a href="https://wikipedia.org/wiki/CSS"><img src="technoIcons/css.svg" width="50" height="50" alt="CSS"><br>**CSS3**</a> | <a href="https://wikipedia.org/wiki/JavaScript"><img src="technoIcons/js.svg" width="50" height="50" alt="JavaScript"><br>**JavaScript**</a> | <a href="https://wikipedia.org/wiki/TypeScript"><img src="technoIcons/ts.svg" width="50" height="50" alt="TypeScript"><br>**TypeScript**</a> | <a href="https://wikipedia.org/wiki/PHP"><img src="technoIcons/php.svg" width="50" height="50" alt="PHP"><br>**PHP**</a> | <a href="https://wikipedia.org/wiki/MySQL"><img src="technoIcons/mysql.svg" width="50" height="50" alt="MySQL"><br>**MySQL**</a> |
+| <a href="https://wikipedia.org/wiki/SQLite"><img src="technoIcons/sqlite.svg" width="50" height="50" alt="SQLite"><br>**SQLite**</a> | <a href="https://wikipedia.org/wiki/Java_(programming_language)"><img src="technoIcons/java.svg" width="50" height="50" alt="Java"><br>**Java**</a> | <a href="https://wikipedia.org/wiki/Python_(programming_language)"><img src="technoIcons/py.svg" width="50" height="50" alt="Python"><br>**Python**</a> | <a href="https://wikipedia.org/wiki/Ruby_(programming_language)"><img src="technoIcons/ruby.svg" width="50" height="50" alt="Ruby"><br>**Ruby**</a> | <a href="https://wikipedia.org/wiki/Lua_(programming_language)"><img src="technoIcons/lua.svg" width="50" height="50" alt="Lua"><br>**Lua**</a> |
+| <a href="https://wikipedia.org/wiki/Dart_(programming_language)"><img src="technoIcons/dart.svg" width="50" height="50" alt="Dart"><br>**Dart**</a> | <a href="https://wikipedia.org/wiki/Kotlin_(programming_language)"><img src="technoIcons/kotlin.svg" width="50" height="50" alt="Kotlin"><br>**Kotlin**</a> | <a href="https://wikipedia.org/wiki/Node.js"><img src="technoIcons/node.svg" width="50" height="50" alt="Node.js"><br>**Node.js**</a> | <a href="https://wikipedia.org/wiki/React_(JavaScript_library)"><img src="technoIcons/react.svg" width="50" height="50" alt="React"><br>**React**</a> | <a href="https://wikipedia.org/wiki/Next.js"><img src="technoIcons/next.svg" width="50" height="50" alt="Next.js"><br>**Next.js**</a> |
+| <a href="https://wikipedia.org/wiki/Symfony"><img src="technoIcons/symfony.svg" width="50" height="50" alt="Symfony"><br>**Symfony**</a> | <a href="https://wikipedia.org/wiki/Flutter_(software)"><img src="technoIcons/flutter.svg" width="50" height="50" alt="Flutter"><br>**Flutter**</a> | <a href="https://wikipedia.org/wiki/Electron_(software_framework)"><img src="technoIcons/electron.svg" width="50" height="50" alt="Electron"><br>**Electron**</a> | <a href="https://wikipedia.org/wiki/PostgreSQL"><img src="technoIcons/postgressql.svg" width="50" height="50" alt="PostgreSQL"><br>**PostgreSQL**</a> | <a href="https://wikipedia.org/wiki/Bootstrap_(front-end_framework)"><img src="technoIcons/bootstrap.svg" width="50" height="50" alt="Bootstrap"><br>**Bootstrap**</a> |
+| <a href="https://wikipedia.org/wiki/Django_(web_framework)"><img src="technoIcons/django.svg" width="50" height="50" alt="Django"><br>**Django**</a> | <a href="https://www.django-rest-framework.org/"><img src="technoIcons/djangoRest.svg" width="50" height="50" alt="Django REST"><br>**Django REST**</a> | <a href="https://wikipedia.org/wiki/Docker_(software)"><img src="technoIcons/docker.svg" width="50" height="50" alt="Docker"><br>**Docker**</a> | <a href="https://wikipedia.org/wiki/Godot_(game_engine)"><img src="technoIcons/godot.svg" width="50" height="50" alt="Godot"><br>**Godot**</a> | <a href="https://wikipedia.org/wiki/GraphQL"><img src="technoIcons/graphql.svg" width="50" height="50" alt="GraphQL"><br>**GraphQL**</a> |
+| <a href="https://wikipedia.org/wiki/JSON"><img src="technoIcons/json.svg" width="50" height="50" alt="JSON"><br>**JSON**</a> | <a href="https://wikipedia.org/wiki/Laravel"><img src="technoIcons/laravel.svg" width="50" height="50" alt="Laravel"><br>**Laravel**</a> | <a href="https://nwjs.io/"><img src="technoIcons/nwjs.svg" width="50" height="50" alt="NW.js"><br>**NW.js**</a> | <a href="https://wikipedia.org/wiki/Tailwind_CSS"><img src="technoIcons/tailwind.svg" width="50" height="50" alt="Tailwind CSS"><br>**Tailwind CSS**</a> | |
 
 <p><em>Click on the logos for more information!</em></p>
-</div>
-<br>
-<br>
-<div align="center">
-  <h2>Names of technologies used</h2>
-</div>
 
-<div align="center">
-  <img src="technoIcons/mfa.svg" width="50" height="50"><p>Clickteam Fusion (v2.5)</p><br>
-  <img src="technoIcons/C.svg" width="50" height="50"><p>C</p><br>
-  <img src="technoIcons/CPlusPlus.svg" width="50" height="50"><p>C++</p><br>
-  <img src="technoIcons/CSharp.svg" width="50" height="50"><p>C# <em>(C Sharp)</em></p><br>
-  <img src="technoIcons/html.svg" width="50" height="50"><p>HyperText Markup Language (v5)</p><br>
-  <img src="technoIcons/css.svg" width="50" height="50"><p>Cascade Style Sheets (v3)</p><br>
-  <img src="technoIcons/js.svg" width="50" height="50"><p>JavaScript</p><br>
-  <img src="technoIcons/ts.svg" width="50" height="50"><p>TypeScript <em>(Typed JavaScript)</em></p><br>
-  <img src="technoIcons/php.svg" width="50" height="50"><p>PHP Hypertext Preprocessor</p><br>
-  <img src="technoIcons/mysql.svg" width="50" height="50"><p>MySQL <em>(SQL DBMS)</em></p><br>
-  <img src="technoIcons/sqlite.svg" width="50" height="50"><p>SQLite <em>(SQL Engine)</em></p><br>
-  <img src="technoIcons/java.svg" width="50" height="50"><p>Java</p><br>
-  <img src="technoIcons/py.svg" width="50" height="50"><p>Python</p><br>
-  <img src="technoIcons/ruby.svg" width="50" height="50"><p>Ruby</p><br>
-  <img src="technoIcons/lua.svg" width="50" height="50"><p>Lua</p><br>
-  <img src="technoIcons/dart.svg" width="50" height="50"><p>Dart</p><br>
-  <img src="technoIcons/kotlin.svg" width="50" height="50"><p>Kotlin</p><br>
-  <img src="technoIcons/node.svg" width="50" height="50"><p>Node.js <em>(JavaScript Runtime)</em></p><br>
-  <img src="technoIcons/react.svg" width="50" height="50"><p>React <em>(JavaScript Library)</em></p><br>
-  <img src="technoIcons/next.svg" width="50" height="50"><p>Next.js <em>(React Framework)</em></p><br>
-  <img src="technoIcons/symfony.svg" width="50" height="50"><p>Symfony <em>(PHP Framework)</em></p><br>
-  <img src="technoIcons/flutter.svg" width="50" height="50"><p>Flutter <em>(UI Framework)</em></p><br>
-  <img src="technoIcons/electron.svg" width="50" height="50"><p>Electron <em>(Desktop Framework)</em></p><br>
-  <img src="technoIcons/postgressql.svg" width="50" height="50"><p>PostgreSQL <em>(SQL DBMS)</em></p><br>
-  <img src="technoIcons/bootstrap.svg" width="50" height="50"><p>Bootstrap <em>(CSS Framework)</em></p><br>
-  <img src="technoIcons/django.svg" width="50" height="50"><p>Django <em>(Python Framework)</em></p><br>
-  <img src="technoIcons/djangoRest.svg" width="50" height="50"><p>Django REST Framework <em>(API Framework)</em></p><br>
-  <img src="technoIcons/docker.svg" width="50" height="50"><p>Docker <em>(Containerization Platform)</em></p><br>
-  <img src="technoIcons/godot.svg" width="50" height="50"><p>Godot <em>(Game Engine)</em></p><br>
-  <img src="technoIcons/graphql.svg" width="50" height="50"><p>GraphQL <em>(Query Language)</em></p><br>
-  <img src="technoIcons/json.svg" width="50" height="50"><p>JSON <em>(Data Format)</em></p><br>
-  <img src="technoIcons/laravel.svg" width="50" height="50"><p>Laravel <em>(PHP Framework)</em></p><br>
-  <img src="technoIcons/nwjs.svg" width="50" height="50"><p>NW.js <em>(Desktop Framework)</em></p><br>
-  <img src="technoIcons/tailwind.svg" width="50" height="50"><p>Tailwind CSS <em>(CSS Framework)</em></p>
 </div>
 
 # What I'm currently listening to 🎶
