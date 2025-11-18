@@ -1,7 +1,7 @@
 // Language : TypeScript
-const name :string = "Tom";
+const nom :string = "Tom";
 const pseudo :string = "Inkflow";
-var age :number = 20;
+var age :number = 21;
 
 function languagesMastered() :string[] {
     var masteredTechnos :string[] = [
@@ -32,7 +32,10 @@ function currentStatus() :string[] {
     var formations :any[] = [
         ["2023 - 2025",
         "BTS SIO (SLAM)",
-        "Gaston Berger"]
+        "Gaston Berger"],
+        ["2025 - 2028",
+        "Mastère Développeur Fullstack",
+        "Ynov Campus Lille"]
     ];
 
     var workplace :any[] = [

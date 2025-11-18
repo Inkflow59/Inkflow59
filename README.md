@@ -26,6 +26,7 @@
 <a href="https://wikipedia.org/wiki/Java_(programming_language)"><img src="technoIcons/java.svg" width="70" height="70" alt="Java"></a>
 <a href="https://wikipedia.org/wiki/Python_(programming_language)"><img src="technoIcons/py.svg" width="70" height="70" alt="Python"></a>
 <a href="https://wikipedia.org/wiki/Ruby_(programming_language)"><img src="technoIcons/ruby.svg" width="70" height="70" alt="Ruby"></a>
+<a href="https://wikipedia.org/wiki/Lua_(programming_language)"><img src="technoIcons/lua.svg" width="70" height="70" alt="Lua"></a>
 <a href="https://wikipedia.org/wiki/Dart_(programming_language)"><img src="technoIcons/dart.svg" width="70" height="70" alt="Dart"></a>
 <a href="https://wikipedia.org/wiki/Kotlin_(programming_language)"><img src="technoIcons/kotlin.svg" width="70" height="70" alt="Kotlin"></a>
 <a href="https://wikipedia.org/wiki/Node.js"><img src="technoIcons/node.svg" width="70" height="70" alt="Node.js"></a>
@@ -35,6 +36,16 @@
 <a href="https://wikipedia.org/wiki/Flutter_(software)"><img src="technoIcons/flutter.svg" width="70" height="70" alt="Flutter"></a>
 <a href="https://wikipedia.org/wiki/Electron_(software_framework)"><img src="technoIcons/electron.svg" width="70" height="70" alt="Electron"></a>
 <a href="https://wikipedia.org/wiki/PostgreSQL"><img src="technoIcons/postgressql.svg" width="70" height="70" alt="PostgreSQL"></a>
+<a href="https://wikipedia.org/wiki/Bootstrap_(front-end_framework)"><img src="technoIcons/bootstrap.svg" width="70" height="70" alt="Bootstrap"></a>
+<a href="https://wikipedia.org/wiki/Django_(web_framework)"><img src="technoIcons/django.svg" width="70" height="70" alt="Django"></a>
+<a href="https://www.django-rest-framework.org/"><img src="technoIcons/djangoRest.svg" width="70" height="70" alt="Django REST Framework"></a>
+<a href="https://wikipedia.org/wiki/Docker_(software)"><img src="technoIcons/docker.svg" width="70" height="70" alt="Docker"></a>
+<a href="https://wikipedia.org/wiki/Godot_(game_engine)"><img src="technoIcons/godot.svg" width="70" height="70" alt="Godot"></a>
+<a href="https://wikipedia.org/wiki/GraphQL"><img src="technoIcons/graphql.svg" width="70" height="70" alt="GraphQL"></a>
+<a href="https://wikipedia.org/wiki/JSON"><img src="technoIcons/json.svg" width="70" height="70" alt="JSON"></a>
+<a href="https://wikipedia.org/wiki/Laravel"><img src="technoIcons/laravel.svg" width="70" height="70" alt="Laravel"></a>
+<a href="https://nwjs.io/"><img src="technoIcons/nwjs.svg" width="70" height="70" alt="NW.js"></a>
+<a href="https://wikipedia.org/wiki/Tailwind_CSS"><img src="technoIcons/tailwind.svg" width="70" height="70" alt="Tailwind CSS"></a>
 
 <p><em>Click on the logos for more information!</em></p>
 </div>
@@ -59,6 +70,7 @@
   <img src="technoIcons/java.svg" width="50" height="50"><p>Java</p><br>
   <img src="technoIcons/py.svg" width="50" height="50"><p>Python</p><br>
   <img src="technoIcons/ruby.svg" width="50" height="50"><p>Ruby</p><br>
+  <img src="technoIcons/lua.svg" width="50" height="50"><p>Lua</p><br>
   <img src="technoIcons/dart.svg" width="50" height="50"><p>Dart</p><br>
   <img src="technoIcons/kotlin.svg" width="50" height="50"><p>Kotlin</p><br>
   <img src="technoIcons/node.svg" width="50" height="50"><p>Node.js <em>(JavaScript Runtime)</em></p><br>
@@ -67,7 +79,17 @@
   <img src="technoIcons/symfony.svg" width="50" height="50"><p>Symfony <em>(PHP Framework)</em></p><br>
   <img src="technoIcons/flutter.svg" width="50" height="50"><p>Flutter <em>(UI Framework)</em></p><br>
   <img src="technoIcons/electron.svg" width="50" height="50"><p>Electron <em>(Desktop Framework)</em></p><br>
-  <img src="technoIcons/postgressql.svg" width="50" height="50"><p>PostgreSQL <em>(SQL DBMS)</em></p>
+  <img src="technoIcons/postgressql.svg" width="50" height="50"><p>PostgreSQL <em>(SQL DBMS)</em></p><br>
+  <img src="technoIcons/bootstrap.svg" width="50" height="50"><p>Bootstrap <em>(CSS Framework)</em></p><br>
+  <img src="technoIcons/django.svg" width="50" height="50"><p>Django <em>(Python Framework)</em></p><br>
+  <img src="technoIcons/djangoRest.svg" width="50" height="50"><p>Django REST Framework <em>(API Framework)</em></p><br>
+  <img src="technoIcons/docker.svg" width="50" height="50"><p>Docker <em>(Containerization Platform)</em></p><br>
+  <img src="technoIcons/godot.svg" width="50" height="50"><p>Godot <em>(Game Engine)</em></p><br>
+  <img src="technoIcons/graphql.svg" width="50" height="50"><p>GraphQL <em>(Query Language)</em></p><br>
+  <img src="technoIcons/json.svg" width="50" height="50"><p>JSON <em>(Data Format)</em></p><br>
+  <img src="technoIcons/laravel.svg" width="50" height="50"><p>Laravel <em>(PHP Framework)</em></p><br>
+  <img src="technoIcons/nwjs.svg" width="50" height="50"><p>NW.js <em>(Desktop Framework)</em></p><br>
+  <img src="technoIcons/tailwind.svg" width="50" height="50"><p>Tailwind CSS <em>(CSS Framework)</em></p>
 </div>
 
 # What I'm currently listening to 🎶
@@ -107,9 +129,9 @@
 # Let's code !
 ```ts
 // Language : TypeScript
-const name :string = "Tom";
+const nom :string = "Tom";
 const pseudo :string = "Inkflow";
-var age :number = 20;
+var age :number = 21;
 
 function languagesMastered() :string[] {
     var masteredTechnos :string[] = [
@@ -140,7 +162,10 @@ function currentStatus() :string[] {
     var formations :any[] = [
         ["2023 - 2025",
         "BTS SIO (SLAM)",
-        "Gaston Berger"]
+        "Gaston Berger"],
+        ["2025 - 2028",
+        "Mastère Développeur Fullstack",
+        "Ynov Campus Lille"]
     ];
 
     var workplace :any[] = [
