@@ -6,7 +6,7 @@
 - 📜 **Associate's degree in Computer Science** in **web and software development**
 - 🎓 *Currently studying: **Bachelor’s degree in Software and Web Development (3-years)***
 
-# My favorite technologies 🖥️
+# My technologies used 🖥️
 
 <div align="center">
 
