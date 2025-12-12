@@ -1,7 +1,7 @@
 // Language : TypeScript
 const nom :string = "Tom";
 const pseudo :string = "Inkflow";
-var age :number = 21;
+var age :number = 22;
 
 function languagesMastered() :string[] {
     var masteredTechnos :string[] = [
