@@ -2,7 +2,7 @@
 [![Github Trophies](https://github-profile-trophy.vercel.app/?username=Inkflow59&theme=matrix&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)<br>
 - 💻 **Web**, **mobile**, **software** and **indie game** developer
 - 👑 Founder and president of **HoS Team** *(since June 2023)*
-- 🎂 Born in 2003 ***(21 years old)***
+- 🎂 Born in 2003 ***(22 years old)***
 - 📜 **Associate's degree in Computer Science** in **web and software development**
 - 🎓 *Currently studying: **Bachelor’s degree in Software and Web Development (3-years)***
 
@@ -63,7 +63,7 @@
 // Language : TypeScript
 const nom :string = "Tom";
 const pseudo :string = "Inkflow";
-var age :number = 21;
+var age :number = 22;
 
 function languagesMastered() :string[] {
     var masteredTechnos :string[] = [
