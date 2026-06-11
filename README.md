@@ -24,11 +24,6 @@
 
 </div>
 
-# What I'm currently listening to 🎶
-<div align="center">
-  <a href="https://open.spotify.com/user/11127395499"><img src="https://spotify-recently-played-readme.vercel.app/api?user=11127395499&unique=true"/></a>
-</div>
-
 # My GitHub statistics 📊
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inkflow59&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact" alt="Inkflow59's Top Languages"/><br>
