@@ -126,6 +126,6 @@ currentProjects();
 ```
 
 <div align="center">
-<em>Copyright (C) 2025 - Made with love</em><br>
+<em>Copyright (C) 2026 - Made with love</em><br>
 <em><strong>Inkflow</strong></em>
 </div>
