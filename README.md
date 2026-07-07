@@ -26,25 +26,9 @@
 
 # My GitHub statistics 📊
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inkflow59&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact" alt="Inkflow59's Top Languages"/><br>
-<img src="https://github-readme-stats.vercel.app/api?username=Inkflow59&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true" alt="Inkflow59's GitHub Stats"/><br>
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=Inkflow59&langs_count=4&theme=chartreuse-dark" alt="Inkflow59's Top Languages"/><br>
+<img src="https://github-stats-extended.vercel.app/api?username=Inkflow59&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=chartreuse-dark" alt="Inkflow59's GitHub Stats"/><br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Inkflow59&theme=chartreuse-dark&hide_border=true" alt="Inkflow59's Streak"/>
-</div>
-
-# My main projects 👨‍💻
-<div align="center">
-<h3><strong><a href="https://github.com/Inkflow59/PortInkFolio-Reagent">PortInkFolio</a></strong> - <em>(In progress since September 19, 2023)</em></h3>
-<h3><strong><a href="https://github.com/Inkflow59/RPGCC-Rebirth">RolePlay Game: Character Creator (Android, iOS, Windows)</a></strong> - <em>(In progress since February 3, 2022)</em></h3>
-<h3><strong><a href="https://hos-team.fr">HoS Website</a></strong> - <em>(In progress since January 9, 2024)</em></h3>
-<h3><strong><a href="https://github.com/Inkflow59/SQLGenix">SQLGenix</a></strong> - <em>(PHP library ready to use now)</em></h3>
-</div>
-
-## My video games 🎮
-
-<div align="center">
-<h3><strong><a href="https://inkflow.itch.io/hos-jv">Heroes of Songs : J.V</a></strong> - <em>(Current version: v0.3.0)</em></h3>
-<h3><strong>Mysterious Bot: Reinitialized</strong> - <em>(Work in progress, but <strong>paused</strong>)</em></h3>
-<h3><strong>Relics of Sokal: The Divine Call</strong> - <em>(Work in progress)</em></h3>
 </div>
 
 # To contact me 📧
