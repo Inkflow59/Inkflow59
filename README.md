@@ -27,7 +27,7 @@
 # My GitHub statistics 📊
 <div align="center">
 <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Inkflow59&langs_count=4&theme=chartreuse-dark" alt="Inkflow59's Top Languages"/><br>
-<img src="https://github-stats-extended.vercel.app/api?username=Inkflow59&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=chartreuse-dark" alt="Inkflow59's GitHub Stats"/><br>
+<img src="https://github-stats-extended.vercel.app/api?username=Inkflow59&rank_icon=github&show_icons=true&include_all_commits=true&theme=chartreuse-dark" alt="Inkflow59's GitHub Stats"/><br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Inkflow59&theme=chartreuse-dark&hide_border=true" alt="Inkflow59's Streak"/>
 </div>
 
