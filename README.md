@@ -35,6 +35,7 @@
 <div align="center">
 <a href="https://discordapp.com/users/286179374204583938"><img src="contactIcons/discord.svg" width="70" height="70" alt="My Discord profile"></a>
 <a href="mailto:tomcucherosset@hotmail.fr"><img src="contactIcons/mail.svg" width="70" height="70" alt="My email address"></a>
+<a href="https://gitlab.com/Inkflow59"><img src="contactIcons/gitlab.svg" width="70" height="70" alt="My GitLab account"></a>
 </div>
 
 # Let's code !
