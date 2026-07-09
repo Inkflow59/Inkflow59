@@ -28,8 +28,8 @@
 <div align="center">
 <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Inkflow59&langs_count=4&theme=chartreuse-dark" alt="Inkflow59's Top Languages"/><br>
 <img src="https://github-stats-extended.vercel.app/api?username=Inkflow59&rank_icon=github&show_icons=true&include_all_commits=true&theme=chartreuse-dark" alt="Inkflow59's GitHub Stats"/><br>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Inkflow59&theme=chartreuse-dark&locale=fr&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat" alt="Inkflow59's Streak" /></a></div>
-
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-tawny-chi.vercel.app?user=Inkflow59&theme=chartreuse-dark&locale=fr&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat" alt="Inkflow59's Streak" /></a>
+    
 # To contact me 📧
 <div align="center">
 <a href="https://discordapp.com/users/286179374204583938"><img src="contactIcons/discord.svg" width="70" height="70" alt="My Discord profile"></a>
