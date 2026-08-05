@@ -3,8 +3,8 @@
 - 💻 **Web**, **mobile**, **software** and **indie game** developer
 - 👑 Founder and president of **HoS Team** *(since June 2023)*
 - 🎂 Born in 2003 ***(22 years old)***
-- 📜 **Associate's degree in Computer Science** in **web and software development**
-- 🎓 *Currently studying: **Bachelor’s degree in Software and Web Development (3-years)***
+- 📜 **Bachelor’s degree in Software and Web Development**
+- 🎓 *Currently studying: **Master's Degree in Full-Stack Development (RNCP Level 7 / EQF Level 7)***
 
 # My technologies used 🖥️
 
